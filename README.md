@@ -1,1 +1,54 @@
-# Sudhakar20000
+# 👋 Hi, I'm Manda Hema Sudhakar
+
+### AWS DevOps Engineer | 3 Years of Experience
+
+🚀 DevOps • Cloud Engineer | AWS | Kubernetes | Docker | Terraform | CI/CD | Python Automation
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/hema-sudhakar-m/)
+[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@mandahemasudhakar)
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:sudhakarmanda2000@gmail.com)
+
+---
+
+I'm a DevOps Engineer with 3 years of experience building and automating cloud infrastructure on **AWS**. Most of my work sits at the intersection of **Kubernetes**, **Docker**, and **Terraform** — provisioning infrastructure as code, containerizing services, and setting up CI/CD pipelines that take deployments out of anyone's hands. I use **Python** to automate the repetitive parts of the job and reduce manual ops work.
+
+---
+
+### 🧰 Tech Stack
+
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+
+---
+
+### 🔧 What I Do
+
+- ☁️ Provision and manage cloud infrastructure on **AWS** using **Terraform** for repeatable, version-controlled deployments
+- 📦 Containerize applications with **Docker** and orchestrate them with **Kubernetes**, including namespace-level and cluster-level **RBAC** access control
+- 🔁 Build **CI/CD pipelines** to automate build, test, and deployment stages and cut down manual release work
+- 🔐 Configure AWS **IAM** and EKS **Access Entries** to manage who can access what, at the right scope
+- 🐍 Write **Python** and shell automation to handle repetitive operational tasks
+- 📊 Set up monitoring and observability with tools like **Prometheus** and **Grafana**
+
+---
+
+
+### 📊 GitHub Stats
+
+![Sudhakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sudhakar20000&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhakar20000&theme=tokyonight&hide_border=true&layout=compact)
+
+---
+
+
+
+Thanks for visiting my profile! ⭐
