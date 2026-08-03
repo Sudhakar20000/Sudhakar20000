@@ -4,9 +4,9 @@
 
 🚀 DevOps • Cloud Engineer | AWS | Kubernetes | Docker | Terraform | CI/CD | Python Automation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/hema-sudhakar-m/)
-[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@mandahemasudhakar)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:sudhakarmanda2000@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@YOUR-MEDIUM-HANDLE)
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:your-email@gmail.com)
 
 ---
 
@@ -41,7 +41,22 @@ I'm a DevOps Engineer with 3 years of experience building and automating cloud i
 
 ---
 
+### 📌 Featured Projects
 
+- **[Microservices_project](https://github.com/Sudhakar20000/Microservices_project)** — deploying a multi-service application with shell-based automation
+- **[e2e-pipeline](https://github.com/Sudhakar20000/e2e-pipeline)** — end-to-end CI/CD pipeline setup
+- **[e-to-e-deploy](https://github.com/Sudhakar20000/e-to-e-deploy)** — end-to-end deployment automation
+- **[BPM](https://github.com/Sudhakar20000/BPM)** — infrastructure/automation project
+
+*(Update these one-liners with what each project actually does — recruiters skim descriptions, not just repo names.)*
+
+---
+
+## 📈 3D Contribution Calendar
+
+![3D contribution graph](https://raw.githubusercontent.com/Sudhakar20000/Sudhakar20000/output/profile-3d-contrib/profile-night-rainbow.svg)
+
+---
 
 ### 📊 GitHub Stats
 
@@ -56,5 +71,8 @@ I'm a DevOps Engineer with 3 years of experience building and automating cloud i
 
 ---
 
+### 📫 Let's Connect
+
+I'm currently open to **AWS DevOps Engineer** roles. Always happy to talk about Kubernetes, cloud infrastructure, or automation — feel free to reach out.
 
 Thanks for visiting my profile! ⭐
