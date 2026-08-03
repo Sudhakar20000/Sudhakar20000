@@ -46,14 +46,13 @@ I'm a DevOps Engineer with 3 years of experience building and automating cloud i
 ### 📊 GitHub Stats
 
 
-![Sudhakar's GitHub stats](https://github-readme-stats.shion.dev/api?username=Sudhakar20000&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![Sudhakar's GitHub stats](https://github-stats-extended.vercel.app/api?username=Sudhakar20000&theme=dark&hide_border=false)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Sudhakar20000&theme=dark&hide_border=false)
 
-![Top Langs](https://github-readme-stats.shion.dev/api/top-langs/?username=Sudhakar20000&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Sudhakar20000&theme=dark&hide_border=false&layout=compact)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sudhakar20000&color=blue)
-
 ---
 
 ## 📈 3D Contribution Calendar
