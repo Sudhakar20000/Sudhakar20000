@@ -55,7 +55,7 @@ I'm a DevOps Engineer with 3 years of experience building and automating cloud i
 
 ## 📈 3D Contribution Calendar
 
-![3D contribution graph](https://raw.githubusercontent.com/Sudhakar20000/Sudhakar20000/output/profile-3d-contrib/profile-night-rainbow.svg)
+![🐍 GitHub Contribution Snake](https://raw.githubusercontent.com/Sudhakar20000/Sudhakar20000/output/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
