@@ -53,9 +53,13 @@ I'm a DevOps Engineer with 3 years of experience building and automating cloud i
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sudhakar20000&color=blue)
 
-## 📈 3D Contribution Calendar
+## 👻 Pac-Man Contribution Graph
 
-![🐍 GitHub Contribution Snake](https://raw.githubusercontent.com/Sudhakar20000/Sudhakar20000/output/profile-3d-contrib/profile-night-rainbow.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sudhakar20000/Sudhakar20000/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sudhakar20000/Sudhakar20000/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sudhakar20000/Sudhakar20000/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 

@@ -1,12 +1,13 @@
+cat > README.md << 'ENDOFFILE'
 # 👋 Hi, I'm Manda Hema Sudhakar
 
 ### AWS DevOps Engineer | 3 Years of Experience
 
 🚀 DevOps • Cloud Engineer | AWS | Kubernetes | Docker | Terraform | CI/CD | Python Automation
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/YOUR-LINKEDIN-HANDLE)
-[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@YOUR-MEDIUM-HANDLE)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://linkedin.com/in/hema-sudhakar-m/)
+[![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@mandahemasudhakar)
+[![Gmail](https://img.shields.io/badge/Email-Contact-red?logo=gmail&style=flat)](mailto:sudhakarmanda2000@gmail.com)
 
 ---
 
@@ -48,13 +49,15 @@ I'm a DevOps Engineer with 3 years of experience building and automating cloud i
 - **[e-to-e-deploy](https://github.com/Sudhakar20000/e-to-e-deploy)** — end-to-end deployment automation
 - **[BPM](https://github.com/Sudhakar20000/BPM)** — infrastructure/automation project
 
-*(Update these one-liners with what each project actually does — recruiters skim descriptions, not just repo names.)*
-
 ---
 
-## 📈 3D Contribution Calendar
+## 👻 Pac-Man Contribution Graph
 
-![3D contribution graph](https://raw.githubusercontent.com/Sudhakar20000/Sudhakar20000/output/profile-3d-contrib/profile-night-rainbow.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sudhakar20000/Sudhakar20000/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sudhakar20000/Sudhakar20000/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Sudhakar20000/Sudhakar20000/output/pacman-contribution-graph.svg">
+</picture>
 
 ---
 
@@ -62,17 +65,11 @@ I'm a DevOps Engineer with 3 years of experience building and automating cloud i
 
 ![Sudhakar's GitHub stats](https://github-stats-extended.vercel.app/api?username=Sudhakar20000&theme=dark&hide_border=false)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=Sudhakar20000&theme=dark&hide_border=false&cache_bust=1)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Sudhakar20000&theme=dark&hide_border=false)
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=Sudhakar20000&theme=dark&hide_border=false&layout=compact)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Sudhakar20000&color=blue)
-
----
-
-## 📈 3D Contribution Calendar
-
-![3D contribution graph](https://raw.githubusercontent.com/Sudhakar20000/Sudhakar20000/output/profile-3d-contrib/profile-night-rainbow.svg)
 
 ---
 
@@ -81,3 +78,8 @@ I'm a DevOps Engineer with 3 years of experience building and automating cloud i
 I'm currently open to **AWS DevOps Engineer** roles. Always happy to talk about Kubernetes, cloud infrastructure, or automation — feel free to reach out.
 
 Thanks for visiting my profile! ⭐
+ENDOFFILE
+
+git add README.md
+git commit -m "sync readme fully"
+git push origin main
